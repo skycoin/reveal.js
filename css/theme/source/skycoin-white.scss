@@ -41,7 +41,7 @@ $backgroundColor: $skycoin-white-2pct;
 $mainColor: $skycoin-black;
 $headingColor: $skycoin-black;
 
-$mainFontSize: 42px;
+$mainFontSize: 26px;/*42px;*/
 $mainFont: 'Skycoin', sans-serif;
 $headingFont: 'Skycoin', sans-serif;
 $headingTextShadow: none;
@@ -51,6 +51,7 @@ $headingFontWeight: 600;
 $linkColor: $skycoin-light-blue;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
+
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
