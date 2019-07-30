@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Skycoin';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Skycoin-Light.woff2') format('woff2'),
+    url('Skycoin-Light.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Skycoin';
+    font-style: italic;
+    font-weight: 300;
+    src: url('Skycoin-LightItalic.woff2') format('woff2'),
+    url('Skycoin-LightItalic.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Skycoin';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Skycoin-Regular.woff2') format('woff2'),
+    url('Skycoin-Regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Skycoin';
+    font-style: italic;
+    font-weight: 400;
+    src: url('Skycoin-RegularItalic.woff2') format('woff2'),
+    url('Skycoin-RegularItalic.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Skycoin';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Skycoin-Bold.woff2') format('woff2'),
+    url('Skycoin-Bold.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Skycoin';
+    font-style: italic;
+    font-weight: 700;
+    src: url('Skycoin-BoldItalic.woff2') format('woff2'),
+    url('Skycoin-BoldItalic.woff') format('woff');
+  }
