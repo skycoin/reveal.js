@@ -1,33 +1,36 @@
 /**
- * Skycoin theme for reveal.js. This was originally based on the standard 'black' theme.
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
  *
- * By BigOokie for Skycoin Project
+ * By Hakim El Hattab, http://hakim.se
  */
 @import url(../../lib/font/skycoin/skycoin.css);
-section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
-  color: #222; }
+section.has-light-background, section.has-light-background h1, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
+  color: #1E2227; }
+
+section.has-light-background, section.has-light-background h2 {
+  color: #0072FF; }
 
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #222;
-  background-color: #222; }
+  background: #F7F7F7;
+  background-color: #F7F7F7; }
 
 .reveal {
   font-family: "Skycoin", sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #fff; }
+  color: #1E2227; }
 
 ::selection {
   color: #fff;
-  background: #bee4fd;
+  background: #80e1ff;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #bee4fd;
+  background: #80e1ff;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -45,7 +48,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #fff;
+  color: #1E2227;
   font-family: "Skycoin", sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -207,20 +210,20 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #42affa;
+  color: #00C3FF;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #8dcffc;
+  color: #4dd5ff;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #068de9; }
+  background: #0089b3; }
 
 /*********************************************
  * IMAGES
@@ -228,7 +231,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #fff;
+  border: 4px solid #1E2227;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -242,21 +245,21 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #42affa;
+  border-color: #00C3FF;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #42affa; }
+  color: #00C3FF; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #42affa; }
+  color: #00C3FF; }
 
 .reveal .progress span {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);

@@ -1,0 +1,73 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(../../lib/font/skycoin/skycoin.css);
+
+
+// Skycoin Brand Colours
+$skycoin-black: #1E2227;
+$skycoin-black-2pct: #22262B;
+$skycoin-black-5pct: #292D32;
+$skycoin-black-20pct: #4A4D51;
+$skycoin-black-50pct: #8C8E91;
+
+$skycoin-white: #FBFBFB;
+$skycoin-white-2pct: #F7F7F7;
+$skycoin-white-5pct: #EEF0F0;
+$skycoin-white-20pct: #CECFD9;
+$skycoin-white-50pct: #8C8E91;
+
+$skycoin-blue: #0072FF;
+$skycoin-light-blue: #00C3FF;
+$skycoin-gold: #FFC125;
+$skycoin-green: #00DF80;
+$skycoin-red: #FF004E;
+
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: $skycoin-white-2pct;
+
+$mainColor: $skycoin-black;
+$headingColor: $skycoin-black;
+
+$mainFontSize: 42px;
+$mainFont: 'Skycoin', sans-serif;
+$headingFont: 'Skycoin', sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: $skycoin-light-blue;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-light-background {
+	&, h1, h3, h4, h5, h6 {
+		color: $skycoin-black;
+	}
+	&, h2 {
+		color: $skycoin-blue;
+	}
+}
+
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
