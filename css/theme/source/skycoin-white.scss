@@ -1,7 +1,7 @@
 /**
- * Black theme for reveal.js. This is the opposite of the 'white' theme.
- *
- * By Hakim El Hattab, http://hakim.se
+ * Skycoin White theme for reveal.js. This is the opposite of the Skycoin Black theme.
+ * Originally based on the standard Black theme.
+ * By BigOokie for Skycoin Project
  */
 
 
@@ -13,7 +13,6 @@
 
 // Include theme-specific fonts
 @import url(../../lib/font/skycoin/skycoin.css);
-
 
 // Skycoin Brand Colours
 $skycoin-black: #1E2227;
@@ -58,17 +57,11 @@ $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
-section.has-light-background {
-	&, h1, h3, h4, h5, h6 {
-		color: $skycoin-black;
-	}
-	&, h2 {
-		color: $skycoin-blue;
-	}
-}
-
-
-
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
+
+// Override h2 with Skycoin-blue
+.reveal h2 {
+	color: $skycoin-blue;
+}
