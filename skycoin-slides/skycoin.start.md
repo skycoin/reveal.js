@@ -17,4 +17,4 @@ Coming Soon
 ---
 <!-- .slide: id="Technical" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Technical Slides
-[Skycoin client libraries](/skycoin-slides/technical/skycoin.libs.html)
+[Skycoin client libraries](skycoin-slides/technical/skycoin.libs.html)
