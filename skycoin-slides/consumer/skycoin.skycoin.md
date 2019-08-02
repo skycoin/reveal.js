@@ -1,0 +1,3 @@
+# Skycoin
+
+## An Introduction

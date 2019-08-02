@@ -34,7 +34,11 @@
 ---
 <!-- .slide: id="Consumer" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Consumer Slides
-Coming Soon
+[Skycoin](skycoin-slides/consumer/skycoin.skycoin.html)
+
+[Skywire](skycoin-slides/consumer/skycoin.skywire.html)
+
+[CX](skycoin-slides/consumer/skycoin.cx.html)
 
 ---
 <!-- .slide: id="Technical" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
