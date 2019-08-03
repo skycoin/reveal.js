@@ -34,7 +34,9 @@
 ---
 <!-- .slide: id="Consumer" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Consumer Slides
-[Skycoin](skycoin-slides/consumer/skycoin.skycoin.html)
+[Skycoin Project Overview](skycoin-slides/consumer/skycoin.project.overview.html)
+
+[Skycoin Cryptocurrency](skycoin-slides/consumer/skycoin.skycoin.html)
 
 [Skywire](skycoin-slides/consumer/skycoin.skywire.html)
 
