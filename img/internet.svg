@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="170px" viewBox="0 0 170 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>new_internet_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="new_internet_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(30.000000, 14.000000)">
+            <g id="Vector" transform="translate(9.000000, 0.000000)" stroke="#0072FF" stroke-width="2">
+                <path d="M90,45 C90,69.8528 69.8528,90 45,90 C20.1472,90 0,69.8528 0,45 C0,20.1472 20.1472,0 45,0 C69.8528,0 90,20.1472 90,45 Z" id="Shape"></path>
+            </g>
+            <g id="Group_2" transform="translate(18.000000, 16.000000)" stroke="#0072FF">
+                <g id="Vector_2">
+                    <path d="M71.6,0.900399619 C63.5,6.2004 50.5,9.6004 35.8,9.6004 C21.4,9.6004 8.5,6.3004 0.399999619,1.1004" id="Shape"></path>
+                </g>
+                <g id="Vector_3" transform="translate(0.000000, 48.000000)">
+                    <path d="M71.6,9.1004 C63.5,3.8004 50.5,0.400401526 35.8,0.400401526 C21.4,0.400401526 8.5,3.7004 0.399999619,8.9004" id="Shape"></path>
+                </g>
+            </g>
+            <g id="Vector_4" transform="translate(9.000000, 45.000000)" stroke="#0072FF">
+                <path d="M0.199999809,0 L89.9,0" id="Shape"></path>
+            </g>
+            <g id="Vector_5" transform="translate(54.000000, 0.000000)" stroke="#0072FF">
+                <path d="M0,0 L0,90" id="Shape"></path>
+            </g>
+            <g id="Vector_6" transform="translate(32.000000, 0.000000)" stroke="#0072FF">
+                <path d="M43.2,45.00078 C43.2,69.68788 33.7084,89.70078 22,89.70078 C10.29156,89.70078 0.799999237,69.68788 0.799999237,45.00078 C0.799999237,20.31368 10.29156,0.300779952 22,0.300779952 C33.7084,0.300779952 43.2,20.31368 43.2,45.00078 Z" id="Shape"></path>
+            </g>
+            <g id="Vector_7" transform="translate(0.000000, 89.000000)">
+                <path d="M39,21.0004 C44.8,25.5004 53,29.1004 60.3,29.1004 L71.9,29.1004 C71.9,24.5004 68.2,20.7004 63.5,20.7004 L28.8,20.7004 C28.8,14.4004 33.9,9.40043 40.1,9.40043 L67.4,9.40043 C74.5,9.40043 81.5,11.8004 87,16.3004 L109.2,34.2004 L94.6,53.6004 L88.2,48.7004 C83.3,44.9004 77.2,42.9004 71,42.9004 L49.7,42.9004 C45.9,42.9004 42.3,41.5004 39.4,39.1004 L0,4.70042 C5.2,-0.99958 14.1,-1.39957 19.8,3.80043 L30.5,13.4004" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M39,21.0004 C44.8,25.5004 53,29.1004 60.3,29.1004 L71.9,29.1004 C71.9,24.5004 68.2,20.7004 63.5,20.7004 L28.8,20.7004 C28.8,14.4004 33.9,9.40043 40.1,9.40043 L67.4,9.40043 C74.5,9.40043 81.5,11.8004 87,16.3004 L109.2,34.2004 L94.6,53.6004 L88.2,48.7004 C83.3,44.9004 77.2,42.9004 71,42.9004 L49.7,42.9004 C45.9,42.9004 42.3,41.5004 39.4,39.1004 L0,4.70042 C5.2,-0.99958 14.1,-1.39957 19.8,3.80043 L30.5,13.4004" id="Shape" stroke="#92A4BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
