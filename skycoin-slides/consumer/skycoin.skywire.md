@@ -1,61 +1,28 @@
 # Skywire
 ## An Introduction
 
-1. What is Skywire? <!-- .element: class="fragment" -->
-2. A Skywire Primer <!-- .element: class="fragment" -->
-3. Key Features <!-- .element: class="fragment" -->
-4. Skyminers and Skywire Nodes <!-- .element: class="fragment" -->
-5. Connectivity <!-- .element: class="fragment" -->
-6. Services <!-- .element: class="fragment" -->
-7. Privacy and Security <!-- .element: class="fragment" -->
-8. Competitor Analysis <!-- .element: class="fragment" -->
-9. Further Information <!-- .element: class="fragment" -->
-
 ---
-
-# What is Skywire?
-## The foundation of a new Internet
+# Skywire
+## Our Goals
 
 > Our goal is to provide everyone with access to fast, secure, private and reliable internet
 >
-> [The Skycoin Team](https://www.skycoin.net/skywire/)
-
----
-
-# What is Skywire?
-## The foundation of a new Internet
-
 > Everyone will be able to contribute and benefit from Skywire
 >
 > [The Skycoin Team](https://www.skycoin.net/skywire/)
 
-
----
-# What is Skywire
-## The foundation of a new Internet
-
-> Net neutrality and consumer data privacy emerged as two key issues in tech in 2017. If you're concerned about paying ridiculous fees to ISPs for unreliable coverage, having your data sold, or government monitoring and censorship - Skycoin provides hope. These are the core issues Skycoin is attempting to solve.
->
-> [HUFFPOST - The top 5 crypto projects to watch in 2018](https://www.huffpost.com/entry/the-top-5-crypto-projects-to-watch-in-2018_b_5a4c6a77e4b06cd2bd03e359)
-
 ---
 
 # What is Skywire?
 ## The foundation of a new Internet
 
-- An Evolutionary step for the Internet
-- Decentralised, community-driven mesh network
-- Fast, secure and private
-- Freedom from ISP and Government tracking
-- Returns power to the people
-- Users and Communities own and control network infrastructure
+An internet networking protocol and bandwidth routing algorithm that is <!-- .element: class="fragment" -->
 
----
+### Stronger <!-- .element: class="fragment" --> 
 
-# Skywire 
-## A Primer
+### Faster <!-- .element: class="fragment" -->
 
-<iframe width="766" height="480" src="https://www.youtube.com/embed/wG9Q3xzSPdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### More Secure <!-- .element: class="fragment" -->
 
 ---
 <!-- .slide: data-background="../../img/speed.svg" data-background-size="30%" data-background-position="10% 50%" -->
@@ -106,28 +73,42 @@ Note: Skywire lays the foundation for distributed bandwidth, storage, and comput
 
 ---
 
+# Skywire 
+## A Quick Primer
+
+<iframe width="766" height="480" src="https://www.youtube.com/embed/wG9Q3xzSPdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Skywire
+## The foundation of a new Internet
+
+### An Evolutionary step for the Internet
+### Decentralised, community-driven mesh network
+### Fast, secure and private
+### Freedom from ISP and Governments
+### Users and Communities own and control network infrastructure
+### Returns power to the people
+
+---
+
+# Skywire
 ## Skyminers and Skywire Nodes
 
----
-
-## Connectivity
 
 ---
+# Skywire
+## What People Are Saying
 
-## Services
-
----
-
-## Privacy, Security and Robustness
+> Net neutrality and consumer data privacy emerged as two key issues in tech in 2017. If you're concerned about paying ridiculous fees to ISPs for unreliable coverage, having your data sold, or government monitoring and censorship - Skycoin provides hope. These are the core issues Skycoin is attempting to solve.
+>
+> [HUFFPOST - The top 5 crypto projects to watch in 2018](https://www.huffpost.com/entry/the-top-5-crypto-projects-to-watch-in-2018_b_5a4c6a77e4b06cd2bd03e359)
 
 ---
 
-## Competitor Analysis
-
----
-
+# Skywire
 ## Further Information
-If you want to know more, checkout the following resources:
+Want to know more about Skywire? Checkout the following resources:
 
 [Skycoin.net](https://skycoin.net)
 
