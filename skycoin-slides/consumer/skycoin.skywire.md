@@ -95,6 +95,16 @@ Note: Skywire lays the foundation for distributed bandwidth, storage, and comput
 # Skywire
 ## Skyminers and Skywire Nodes
 
+--
+# Skywire
+## Introducing the Skyminer
+<iframe width="1056" height="505" src="https://www.youtube.com/embed/-CbSdVIwr8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--
+# Skywire
+## Skyminer Overview
+
+<iframe width="1056" height="505" src="https://www.youtube.com/embed/vG1QdyZzBzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # Skywire
@@ -111,6 +121,8 @@ Note: Skywire lays the foundation for distributed bandwidth, storage, and comput
 Want to know more about Skywire? Checkout the following resources:
 
 [Skycoin.net](https://skycoin.net)
+
+[Skycoin Blog](https://www.skycoin.net/blog/)
 
 [Telegram](https://t.me/skywire)
 
