@@ -5,22 +5,13 @@
 # Skycoin
 ## How to find us
 
-[Skycoin.net](https://skycoin.net)
-
-[GitHub](https://github.com/skycoin)
-
-[Telegram](https://t.me/skycoin)
-
-[Twitter](https://twitter.com/skycoinproject)
-
-[Medium](https://medium.com/skycoin)
-
-[Facebook]()
-
-[Instagram]()
-
-[Reddit]()
-
+|     |   |     |   |     |
+|:---:|---|:---:|---|:---:|
+|[Skycoin.net](https://skycoin.net)||[Medium](https://medium.com/skycoin)||[Twitter](https://twitter.com/skycoinproject)|
+|[Facebook](https://www.facebook.com/SkycoinOfficial/)||[Instagram](https://www.instagram.com/skycoinproject/)||[GitHub](https://github.com/skycoin)|
+|[YouTube](https://www.youtube.com/c/Skycoin)||[Telegram](https://t.me/skycoin)||[Reddit](https://www.reddit.com/r/skycoin/)|
+|[PodCasts](https://itunes.apple.com/nl/podcast/skycoin/id1348472259?l=en)||[Discord](https://discord.gg/EgBenrW)||[LinkedIn](https://www.linkedin.com/company/skycoin/)|
+||||
 
 ---
 <!-- .slide: id="Gallery" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
